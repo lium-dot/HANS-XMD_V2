@@ -16,15 +16,15 @@ global.ownernumber = '254758443111'  //creator number
 global.ownername = '★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫' //owner name
 global.botname = '☣☠️🅐︎🅣︎🅞︎🅜︎🅘︎🅒︎☠️☣' //name of the bot
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'ᴘσωєʀє∂ ву ★Ꭿ☼︎ℒ☼︎ℒ✩ℰ✫ℕ♫'
 global.author = 'HANS-XMD'
 //console view/theme
 global.themeemoji = '⚠️'
 global.wm = "HANS BOT"
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = ''
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['/']
 //false=disable and true=enable
 
 
@@ -32,7 +32,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.autoreact = false // This is For Auto React 

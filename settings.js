@@ -9,25 +9,25 @@ const chalk = require('chalk')
 require('dotenv').config()
 
 //contact details - sensitive info moved to .env
-global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.SESSION_ID = process.env.SESSION_ID || "HansTz&2ItlySZC#r4vi8K_3mQYeFEv3v5TZQ62PGq1IZt4BpSKUgdMzQIg" //fallback to default if not in .env
+global.ownernomer = process.env.OWNER_NUMBER || "254758443111"
 
-global.ownername = process.env.OWNER_NAME || "HansTech"
+global.ownername = process.env.OWNER_NAME || "G̸E̸N̸Z̸K̸E̸N̸Y̸A̸"
 
-global.ytname = "HANSTZ-TECH"
+global.ytname = "G̸E̸N̸Z̸K̸E̸N̸Y̸A̸"
 
 global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '254758443111'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
+global.ownername = process.env.OWNER_NAME || 'G̸E̸N̸Z̸K̸E̸N̸Y̸A̸' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'G̸E̸N̸Z̸K̸E̸N̸Y̸A̸'
 
 //console view/theme
 global.themeemoji = '⚠️'
@@ -37,14 +37,14 @@ global.wm = "HANS BOT"
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 
 //custom prefix
-global.prefa = ['','!','.','#','/']
+global.prefa = ['.']
 
 
 //bot settings
-global.autolikestatus = true //For auto react Status Random
+global.autolikestatus = false //For auto react Status Random
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = true //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
